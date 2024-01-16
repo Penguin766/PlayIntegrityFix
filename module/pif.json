@@ -1,11 +1,10 @@
 {
-    "PRODUCT": "cheetah",
-    "DEVICE": "cheetah",
-    "MANUFACTURER": "Google",
-    "BRAND": "google",
-    "MODEL": "Pixel 7 Pro",
-    "FINGERPRINT": "google/cheetah_beta/cheetah:14/AP11.231215.007/11272621:user/release-keys",
-    "SECURITY_PATCH": "2024-01-05",
-    "FIRST_API_LEVEL": "33",
-    "ID": "GP4BC"
+    "PRODUCT": "a5t17ltexx",
+    "DEVICE": "a5t17lte",
+    "MANUFACTURER": "samsung",
+    "BRAND": "samsung",
+    "MODEL": "SM-A510F",
+    "FINGERPRINT": "samsung/a5y17ltexx/a5y17lte:8.0.0/R16NW/A520FXXUGCTKA:user/release-keys",
+    "SECURITY_PATCH": "2020-12-01",
+    "FIRST_API_LEVEL": "23",
 }
