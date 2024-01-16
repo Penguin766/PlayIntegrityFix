@@ -1,11 +1,18 @@
 {
-    "PRODUCT": "c01_ww",
-    "DEVICE": "acer_c01",
-    "MANUFACTURER": "Acer Inc.",
-    "BRAND": "acer",
-    "MODEL": "C01",
-    "FINGERPRINT": "acer/c01_ww/acer_c01:7.1.1/NMF26F/1521514970:user/release-keys",
-    "SECURITY_PATCH": "2018-04-01",
-    "FIRST_API_LEVEL": 24,
-    "ID": "NMF26F"
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 7 Pro",
+  "BRAND": "google",
+  "PRODUCT": "cheetah",
+  "DEVICE": "cheetah",
+  "RELEASE": "14",
+  "ID": "AP11.231215.007",
+  "INCREMENTAL": "11272621",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "FINGERPRINT": "google/cheetah_beta/cheetah:14/AP11.231215.007/11272621:user/release-keys",
+  "SECURITY_PATCH": "2024-01-05",
+  "DEVICE_INITIAL_SDK_INT": "25",
+  "*.build.id": "UP1A.231005.007",
+  "*.security_patch": "2024-01-05",
+  "*api_level": "25"
 }
