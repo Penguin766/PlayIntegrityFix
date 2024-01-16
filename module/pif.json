@@ -6,6 +6,6 @@
     "MODEL": "Pixel 7 Pro",
     "FINGERPRINT": "google/cheetah_beta/cheetah:14/AP11.231215.007/11272621:user/release-keys",
     "SECURITY_PATCH": "2024-01-05",
-    "FIRST_API_LEVEL": 33,
+    "FIRST_API_LEVEL": "33",
     "ID": "GP4BC"
 }
