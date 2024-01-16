@@ -1,10 +1,10 @@
 {
-    "PRODUCT": "a5t17ltexx",
-    "DEVICE": "a5t17lte",
-    "MANUFACTURER": "samsung",
-    "BRAND": "samsung",
-    "MODEL": "SM-A510F",
-    "FINGERPRINT": "samsung/a5y17ltexx/a5y17lte:8.0.0/R16NW/A520FXXUGCTKA:user/release-keys",
-    "SECURITY_PATCH": "2020-12-01",
-    "FIRST_API_LEVEL": "23",
+    "PRODUCT": "Onyx_00WW",
+    "DEVICE": "B2N_sprout",
+    "MANUFACTURER": "FIH",
+    "BRAND": "Nokia",
+    "MODEL": "00WW",
+    "FINGERPRINT": "Nokia/Onyx_00WW/B2N_sprout:8.0.0/OPR1.170623.026/00WW_1_32E:user/release-keys",
+    "SECURITY_PATCH": "2018-02-01",
+    "FIRST_API_LEVEL": "26",
 }
