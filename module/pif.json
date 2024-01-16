@@ -1,10 +1,10 @@
 {
-    "PRODUCT": "Onyx_00WW",
-    "DEVICE": "B2N_sprout",
-    "MANUFACTURER": "FIH",
-    "BRAND": "Nokia",
-    "MODEL": "00WW",
-    "FINGERPRINT": "Nokia/Onyx_00WW/B2N_sprout:8.0.0/OPR1.170623.026/00WW_1_32E:user/release-keys",
-    "SECURITY_PATCH": "2018-02-01",
-    "FIRST_API_LEVEL": "26",
+    "PRODUCT": "xpeng_g",
+    "DEVICE": "xpeng",
+    "MANUFACTURER": "motorola",
+    "BRAND": "motorola",
+    "MODEL": "moto g200 5G",
+    "FINGERPRINT": "motorola/xpeng_g/xpeng:12/S1RXS32.50-13-15/7dba8-343f9:user/release-keys",
+    "SECURITY_PATCH": "2013-03-01",
+    "FIRST_API_LEVEL": "25",
 }
